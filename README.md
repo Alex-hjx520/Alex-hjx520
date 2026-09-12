@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer&text=Alex-hjx520!)
+![img](https://github.com/Alex-hjx520/Alex-hjx520/blob/main/c39e449ce6fea83cf42dcb97909c64f0.jpg)
+# Hi there 👋, I'm Alex!
 ### 🚀 Java后端开发工程师 | 2027届应届生
 > 正在备战2026秋招，寻找Java后端开发岗位。热衷于高并发架构、性能优化与 AI Agent 落地实践。
 
