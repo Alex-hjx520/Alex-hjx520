@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aelx-hjx520!
+# Hi there 👋, I'm Alex-hjx520!
 
 ### 🚀 Java后端开发工程师 | 2027届应届生
 > 正在备战2026秋招，寻找Java后端开发岗位。热衷于高并发架构、性能优化与 AI Agent 落地实践。
