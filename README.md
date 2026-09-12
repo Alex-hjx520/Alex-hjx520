@@ -56,7 +56,6 @@
 
 ### 📊 GitHub 统计 (GitHub Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-hjx520&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-hjx520&theme=radical" alt="GitHub Streak" />
 </div>
 
