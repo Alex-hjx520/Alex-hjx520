@@ -27,11 +27,6 @@
 ![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square)
 
-**前端与工具**
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 ---
 
 ### 💡 核心项目 (Featured Projects)
@@ -57,6 +52,14 @@
 - 利用 CoolProp 实现制冷剂物性、焓差、质量流量及制冷量计算；针对 RFKH 热力膨胀阀实现多制冷剂容量扩展表、过冷度修正和压降修正算法。
 - 基于 LangGraph 实现 Agent 闭环决策，对最多 5 个候选设备进行批量仿真，自动执行调节阀前压差、过冷度、过热度或换型等操作，直至满足达标数量或达到最大迭代次数。
 
+#### ⚖️ [LCR-Agent · 法律合同审查 Agent](https://github.com/Alex-hjx520/LCR-Agent) `2026.08 - 2026.10`
+`Python / LangGraph / FastAPI / Pydantic v2 / Chroma / BM25 / RAG`
+
+- 主导系统架构设计与核心开发，基于 LangGraph 将合同审查链路拆解为「解析 → 切分 → 条款抽取 → 风险审查 → 合规检查 → 摘要 → 报告」的有状态图，每个节点均可独立测试与替换。
+- 采用**规则先行、LLM 兜底**策略：正则定位条款边界保证不丢不越界，LLM 负责分类，模型不可用时自动回退关键词规则；合规检查由确定性正则引擎完成，可复现、可审计。
+- 搭建 **BM25 + Chroma 混合检索**，用 RRF 融合稀疏与稠密召回，接入 CUAD 先例语料，为每条风险结论写入可回溯的 `citations`。
+- 设计分层解耦架构（`schemas ← parsing ← knowledge ← agents ← graph ← api`）与无状态 Agent 签名 `run(state) -> dict`，支持单测、重放、并行及 HITL 人机协同。
+- 工程化落地：Poetry + ruff + mypy + pytest，提供 CLI 与 FastAPI 全套接口，未配置密钥时自动降级为离线 stub，可先跑通全链路。
 ---
 
 ### 📊 GitHub 统计 (GitHub Stats)
