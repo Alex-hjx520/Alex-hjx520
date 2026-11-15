@@ -1,9 +1,16 @@
 ![img](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-# Hi there 👋, I'm Alex!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=Java+Backend+Developer;Spring+Boot+%C2%B7+MyBatis+%C2%B7+Redis+%C2%B7+MySQL;LangGraph+%C2%B7+RAG+%C2%B7+AI+Agent;Class+of+2027+%C2%B7+Ready+for+2026+Autumn+Recruitment" alt="🚀 Java 后端开发工程师 | 2027 届应届生" />
+  </a>
+</p>
 
-### 🚀 Java 后端开发工程师 | 2027 届应届生
-> 正在备战 2026 秋招，寻找 Java 后端开发岗位。有国企空调服务平台后端研发实习经历，关注工单流转与并发控制、缓存优化、能耗仿真策略与 AI Agent 落地实践。
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=8B949E&center=true&vCenter=true&width=760&height=32&lines=Backing+the+2026+Autumn+Recruitment;Workflow+Concurrency+%C2%B7+Caching+Optimization;Energy+Simulation+Strategies+%C2%B7+AI+Agent+in+Practice" alt="正在备战 2026 秋招，寻找 Java 后端开发岗位。关注工单流转与并发控制、缓存优化、能耗仿真策略与 AI Agent 落地实践。" />
+  </a>
+</p>
 
 ---
 
@@ -136,9 +143,7 @@
 
 ### 📊 GitHub 统计 (GitHub Stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-hjx520&theme=radical" alt="GitHub Streak" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-520hjx)
 
 ---
 
