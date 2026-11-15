@@ -120,7 +120,7 @@
 
 ### 📊 GitHub 统计
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex-hjx520&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex-hjx520&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 ---
@@ -129,3 +129,5 @@
 
 - 📧 **Email**: 2861902988@qq.com
 - 💼 **求职状态**：正在寻找 Java 后端开发岗位（秋招）
+
+
