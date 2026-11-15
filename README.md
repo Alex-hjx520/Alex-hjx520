@@ -8,10 +8,42 @@
 
 ### 🛠️ 技术栈
 
-- **后端开发**：Java · Spring Boot · MyBatis · Spring Task · Spring Cache · AOP · WebSocket · JWT · Python · FastAPI
-- **数据库与中间件**：MySQL · Redis
-- **AI 与 Agent**：LangChain · LangGraph · RAG · ChromaDB
-- **工程化与工具**：Git · AI Coding
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>后端开发</b><br/><br/>
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/-MyBatis-000000?style=flat-square" alt="MyBatis" />
+      <img src="https://img.shields.io/badge/-Spring%20Task-6DB33F?style=flat-square" alt="Spring Task" />
+      <img src="https://img.shields.io/badge/-Spring%20Cache-6DB33F?style=flat-square" alt="Spring Cache" />
+      <img src="https://img.shields.io/badge/-AOP-6DB33F?style=flat-square" alt="AOP" />
+      <img src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square" alt="WebSocket" />
+      <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+    <td width="50%" valign="top">
+      <b>数据库与中间件</b><br/><br/>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>AI 与 Agent</b><br/><br/>
+      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square" alt="ChromaDB" />
+    </td>
+    <td width="50%" valign="top">
+      <b>工程化与工具</b><br/><br/>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-AI%20Coding-412991?style=flat-square" alt="AI Coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
