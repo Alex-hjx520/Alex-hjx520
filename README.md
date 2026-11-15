@@ -1,3 +1,4 @@
+![img](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -47,9 +48,11 @@
 
 > 点击卡片标题展开项目亮点 · 点击已展开卡片可收起
 
+<br/>
+
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <details name="projects">
         <summary>
           <b>🏭 空调工单服务平台</b><br/>
@@ -64,7 +67,14 @@
         </ul>
       </details>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td>
       <details name="projects">
         <summary>
           <b>🔋 建筑能耗预测仿真平台</b><br/>
@@ -80,8 +90,13 @@
       </details>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <details name="projects">
         <summary>
           <b>🍜 餐饮商户外卖平台</b><br/>
@@ -98,7 +113,14 @@
         </ul>
       </details>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td>
       <details name="projects">
         <summary>
           <b>🔧 冷凝阀门 Agent 选型系统</b><br/>
@@ -116,8 +138,13 @@
       </details>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <details name="projects">
         <summary>
           <b>⚖️ LCR-Agent 合同审查</b><br/>
@@ -135,7 +162,6 @@
         </ul>
       </details>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
