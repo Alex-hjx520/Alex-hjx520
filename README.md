@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Alex
+# Java 后端开发工程师 | 2027 届应届生
 
-**Java 后端开发工程师 | 2027 届应届生**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Microsoft+YaHei&size=18&color=36BCF7&center=true&vCenter=true&width=800&height=35&lines=%E6%AD%A3%E5%9C%A8%E5%A4%87%E6%88%98+2026+%E7%A7%8B%E6%8B%9B%EF%BC%8C%E5%AF%BB%E6%89%BE+Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B2%97%E4%BD%8D%E3%80%82;%E6%9C%89%E5%9B%BD%E4%BC%81%E7%A9%BA%E8%B0%83%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86;%E5%85%B3%E6%B3%A8%E5%B7%A5%E5%8D%95%E6%B5%81%E8%BD%AC%E4%B8%8E%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6%E3%80%81%E7%BC%93%E5%AD%98%E4%BC%98%E5%8C%96;%E8%83%BD%E8%80%97%E4%BB%BF%E7%9C%9F%E7%AD%96%E7%95%A5%E4%B8%8E+AI+Agent+%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%E3%80%82" alt="Intro" />
