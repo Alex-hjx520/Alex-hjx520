@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=Java+Backend+Developer;Spring+Boot+%C2%B7+MyBatis+%C2%B7+Redis+%C2%B7+MySQL;LangGraph+%C2%B7+RAG+%C2%B7+AI+Agent;Class+of+2027+%C2%B7+Ready+for+2026+Autumn+Recruitment" alt="🚀 Java 后端开发工程师 | 2027 届应届生" />
@@ -46,13 +45,14 @@
 
 ### 💡 核心项目 (Featured Projects)
 
-> 点击卡片展开项目亮点 · 点击已展开卡片可收起
+> 点击卡片展开项目亮点 · 点击已展开区域可收起
 
 <br/>
 
 <details name="projects">
   <summary>
-    <img src="./assets/cards/ac-service.svg" alt="🏭 空调工单服务平台 · Java · Spring Boot · MySQL · MyBatis" width="100%" />
+    <img src="./assets/cards/ac-service.svg" alt="🏭 空调工单服务平台" width="100%" align="top" />
+    <b>🏭 空调工单服务平台</b>
   </summary>
 
 <br/>
@@ -70,7 +70,8 @@
 
 <details name="projects">
   <summary>
-    <img src="./assets/cards/energy-sim.svg" alt="🔋 建筑能耗预测仿真平台 · Python · FastAPI · NumPy" width="100%" />
+    <img src="./assets/cards/energy-sim.svg" alt="🔋 建筑能耗预测仿真平台" width="100%" align="top" />
+    <b>🔋 建筑能耗预测仿真平台</b>
   </summary>
 
 <br/>
@@ -88,7 +89,8 @@
 
 <details name="projects">
   <summary>
-    <img src="./assets/cards/takeout.svg" alt="🍜 餐饮商户外卖平台 · Java · Spring Boot · Redis · WebSocket" width="100%" />
+    <img src="./assets/cards/takeout.svg" alt="🍜 餐饮商户外卖平台" width="100%" align="top" />
+    <b>🍜 餐饮商户外卖平台</b>
   </summary>
 
 <br/>
@@ -108,7 +110,8 @@
 
 <details name="projects">
   <summary>
-    <img src="./assets/cards/valve-agent.svg" alt="🔧 冷凝阀门 Agent 选型系统 · Python · LangGraph · RAG · ChromaDB" width="100%" />
+    <img src="./assets/cards/valve-agent.svg" alt="🔧 冷凝阀门 Agent 选型系统" width="100%" align="top" />
+    <b>🔧 冷凝阀门 Agent 选型系统</b>
   </summary>
 
 <br/>
@@ -129,7 +132,8 @@
 
 <details name="projects">
   <summary>
-    <img src="./assets/cards/lcr-agent.svg" alt="⚖️ LCR-Agent 合同审查 · Python · LangGraph · BM25 · Chroma" width="100%" />
+    <img src="./assets/cards/lcr-agent.svg" alt="⚖️ LCR-Agent 合同审查" width="100%" align="top" />
+    <b>⚖️ LCR-Agent 合同审查</b>
   </summary>
 
 <br/>
@@ -150,7 +154,9 @@
 
 ### 📊 GitHub 统计 (GitHub Stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-520hjx)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-520hjx&show_icons=true&theme=dark&count_private=true" alt="Alex-520hjx's GitHub Stats" />
+</div>
 
 ---
 
