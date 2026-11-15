@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b2230"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="816" height="156" rx="16" fill="url(#bg)" stroke="url(#bd)" stroke-width="2"/>
+  <text x="44" y="92" font-size="44">⚖️</text>
+  <text x="108" y="72" font-family="'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif" font-size="27" font-weight="700" fill="#e6edf3">LCR-Agent 合同审查</text>
+  <text x="108" y="108" font-family="'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif" font-size="15" fill="#8b949e">Python · LangGraph · BM25 · Chroma</text>
+  <text x="790" y="88" text-anchor="end" font-family="'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif" font-size="14" fill="#58a6ff">查看详情 →</text>
+</svg>
