@@ -108,7 +108,7 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-520hjx&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-hjx520&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <br/>
